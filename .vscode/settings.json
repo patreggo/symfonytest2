@@ -1,0 +1,15 @@
+{
+    "symfony-vscode.phpExecutablePath": "C:\\php\\php.exe",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 58318,
+            "driver": "PostgreSQL",
+            "database": "app",
+            "username": "app",
+            "name": "Postgres",
+            "password": "ChangeMe"
+        }
+    ]
+}
